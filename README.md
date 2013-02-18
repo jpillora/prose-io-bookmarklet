@@ -2,6 +2,12 @@ Edit in Prose.io Bookmarket
 =====
 v0.0.1
 
+Note
+---
+
+This bookmarklet is incomplete !
+
+
 Usage
 ---
 
